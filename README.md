@@ -81,8 +81,6 @@ NLP-ITAI2373/Final-NewsBot-2.0
 
 ## Professional Contact
 
-## Professional Contact
-
 GitHub Portfolio:
 [https://github.com/Evaabou20/Eva-AbouHarb-AI-Portfolio](https://github.com/Evaabou20/Eva-AbouHarb-AI-Portfolio)
 
